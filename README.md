@@ -1,4 +1,4 @@
-# Insight Data Engineering coding challenge - April 2017
+# Process server logs
 
 No special libraries used.
 
